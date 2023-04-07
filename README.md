@@ -1,5 +1,5 @@
 ### About me 💻 👨🏻‍🏫
-Hello everyone, my name is Carlos Ferrer, I'm a Backend & Frontend Developer, also I can develop Mobile Apps using Ionic Frameworks,and I'm professor in Davinci School. I'm Creating [!Mundo Futuro](https://mundo-futuro.com/) a website to teach all I know about html5, css3, javascript, vue.js & Laravel, called Mundo Futuro.
+Hello everyone, my name is Carlos Ferrer, I'm a Backend & Frontend Developer, also I can develop Mobile Apps using Ionic Frameworks,and I'm professor in Davinci School. I'm Creating [Mundo Futuro](https://mundo-futuro.com/) a website to teach all I know about html5, css3, javascript, vue.js & Laravel, called Mundo Futuro.
 
 
 #### Normally I use this tools to work:
@@ -50,7 +50,7 @@ There are a large list of things I want, and I want to do/know and many language
 [![Instagram - Personal](https://img.shields.io/badge/Instagram-@amarillo_cel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/amarillo_cel)
 
 
-#### [!Mundo Futuro](https://mundo-futuro.com/) Social Networks
+#### [Mundo Futuro](https://mundo-futuro.com/) Social Networks
 [![Instagram - Mundo Futuro](https://img.shields.io/badge/Instagram-@mundofuturoca-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mundofuturoca)
 [![Twitter - Mundo Futuro'](https://img.shields.io/badge/Twitter-@mundofuturoca-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mundofuturoca)
 [![Youtube - Mundo Futuro'](https://img.shields.io/badge/Youtube-@mundofuturo9809-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.youtube.com/@mundofuturo9809)
