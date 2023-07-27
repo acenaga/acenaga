@@ -23,7 +23,7 @@ Hello everyone, my name is Carlos Ferrer, I'm a Backend & Frontend Developer, al
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![VueJS](https://img.shields.io/badge/VueJS-green?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/Laravel-8-red?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
 
